@@ -1,11 +1,11 @@
 # Retail-Sales-Analysis : Unlocking-Business-Insights-from-Transactions
 This project analyzes retail sales data to uncover key business insights using SQL. It answers 10+ business questions, including peak sales hours, best-selling category, customer spending trends, and monthly patterns.
 
-# Tech Stack: SQL | MySQl Wokbench | Excel
+**Tech Stack: SQL | MySQl Wokbench | Excel**
 
 ---
 
-# 🔎 Problem Statement
+ **🔎 Problem Statement**
 Retail businesses generate massive amounts of transaction data daily. However, extracting meaningful insights from this data remains a challenge.
 
 1. Which product categories drive the most revenue?
@@ -17,7 +17,7 @@ To answer these business questions, I conducted a comprehensive sales analysis u
 
 ---
 
-# 🏗️ Data Approach & Methodology
+ **🏗️ Data Approach & Methodology**
 The project follows a structured data analysis approach:
 
 1️⃣ Data Exploration
@@ -38,16 +38,20 @@ Used aggregate functions, CASE statements, RANK(), GROUP BY, HAVING, and window 
 
 ---
 
-# 🛠 Tools & Technologies Used
+ **🛠 Tools & Technologies Used**
+ 
 
 ✔ SQL (MySQL) – Data extraction & transformation
+
 ✔ Excel – Data Reporting
+
 ✔ GitHub – Version control & project hosting
+
 ✔ LinkedIn – Showcasing professional insights
 
 ---
 
-# 🔥 Key Business Insights
+ **🔥 Key Business Insights**
 
 📌 Peak Sales Hours – The highest transactions occur in the Evening (Post 5 PM) 📈
 📌 Top Product Category – Electronics contributes the highest revenue 💰
@@ -56,7 +60,7 @@ Used aggregate functions, CASE statements, RANK(), GROUP BY, HAVING, and window 
 
 ---
 
-# 📢 Conclusion & Business Recommendations
+ **📢 Conclusion & Business Recommendations**
 
 ✅ Optimize staffing during peak sales hours for better customer experience.
 ✅ Increase marketing spend during peak sales months.
@@ -69,14 +73,14 @@ This project helped me sharpen my SQL skills and understand retail analytics in 
 
 ---
 
-# Author - Khushi Ojha
+ **Author - Khushi Ojha**
 
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 ---
 
-# LinkedIn : https://www.linkedin.com/in/khushiojha19/
+ **LinkedIn : https://www.linkedin.com/in/khushiojha19/**
 
-# GitHub : https://github.com/khushiojha19
+ **GitHub : https://github.com/khushiojha19**
 
