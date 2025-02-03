@@ -54,17 +54,23 @@ Used aggregate functions, CASE statements, RANK(), GROUP BY, HAVING, and window 
  **🔥 Key Business Insights**
 
 📌 Peak Sales Hours – The highest transactions occur in the Evening (Post 5 PM) 📈
+
 📌 Top Product Category – Electronics contributes the highest revenue 💰
-📌 Customer Segmentation – Male Customers are the primary buyers 🎯
+
+📌 Customer Segmentation – Male Customers are the primary buyers 🎯  
+
 📌 Best-Selling Month – Identified the most profitable month each year 📅
 
 ---
 
  **📢 Conclusion & Business Recommendations**
 
-✅ Optimize staffing during peak sales hours for better customer experience.
+✅ Optimize staffing during peak sales hours for better customer experience. 
+
 ✅ Increase marketing spend during peak sales months.
+
 ✅ Target promotions to the most active customers for higher conversions.
+
 ✅ Stock inventory smartly based on seasonal demand patterns.
 
 ---
